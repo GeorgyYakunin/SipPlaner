@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">SIP Calculator With Planner Prime</string>
+    <string name="appid" translatable="false">2604073652947262</string>
+    <string name="banner_ad_id" translatable="false">604187330152975_604241586814216</string>
+    <string name="inter" translatable="false">604187330152975_604188866819488</string>
+    <string name="native_ad_id" translatable="false">604187330152975_604187896819585</string>
+    <string name="native_banner_id" translatable="false">604187330152975_605713796666995</string>
+    <string name="privacy_policylink" translatable="false">https://privacy.blogspot.com</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="title_activity_my_drawer" translatable="false">MyDrawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="add">Add</string>
+    <string name="add_investment">Add Investment</string>
+    <string name="add_new_investment_plan">Add New Investment Plan</string>
+    <string name="balance_in_transferee">Balance in Transferee</string>
+    <string name="balance_in_transferor">Balance in Transferor</string>
+    <string name="calculate">Calculate</string>
+    <string name="cancel">Cancel</string>
+    <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="communicate">Communicate</string>
+    <string name="delete">Delete</string>
+    <string name="detail">Detail</string>
+    <string name="duration">Duration</string>
+    <string name="edit">Edit</string>
+    <string name="end_balance">End Balance</string>
+    <string name="end_date">End Date</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="financial_goal">Financial Goal</string>
+    <string name="frequency">Frequency</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="initial_investment_amount">Initial Investment Amount</string>
+    <string name="investment_amount">Investment Amount</string>
+    <string name="investment_period">Investment Period</string>
+    <string name="lump_sum_or_initial_investment">Lump Sum Or Initial Investment</string>
+    <string name="maturity_value">Maturity Value</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="monthly_investment">Monthly Investment</string>
+    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="name">Name</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="no_details_found">No Details Found</string>
+    <string name="no_of_withdrawals">No. Of Withdrawals</string>
+    <string name="nothing_to_show">Nothing to Show</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="plz_fill_info">Please fill all the information.</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="rate_of_return">Rate Of Return (%)</string>
+    <string name="rate_of_return_transferee">Rate Of Return - Transferee (%)</string>
+    <string name="rate_of_return_transferor">Rate Of Return - Transferor (%)</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="reset">Reset</string>
+    <string name="save">Save</string>
+    <string name="search_menu_title">Search</string>
+    <string name="send_feedback">Send feedback</string>
+    <string name="share">Share</string>
+    <string name="sip_amount">SIP Amount</string>
+    <string name="sip_calculator">SIP Calculator</string>
+    <string name="sip_planner">SIP Planner</string>
+    <string name="start_date">Start Date</string>
+    <string name="stp_amount">STP Amount</string>
+    <string name="stp_calculator">STP Calculator</string>
+    <string name="swp_amount">SWP Amount</string>
+    <string name="swp_calculator">SWP Calculator</string>
+    <string name="tenure_in">Tenure In</string>
+    <string name="tenure_in_years">Tenure In Years</string>
+
+    <string name="total_amount_transferred">Total Amount Transferred</string>
+    <string name="total_profit">Total Profit</string>
+    <string name="total_withdrawal">Total Withdrawal</string>
+    <string name="view_investment">View Investment</string>
+    <string name="view_my_plan">View My Plan</string>
+    <string name="we_hope_you_liked_our_app_please_rate_our_app">We hope you liked our application.Please rate...</string>
+    <string name="you_will_make_sip_of">You Will Make Sip Of</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="advertisement">Advertisement</string>
+</resources>

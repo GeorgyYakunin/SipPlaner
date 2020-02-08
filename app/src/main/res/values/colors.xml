@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="text_blue">#ff5f51b5</color>
+    <color name="light_blue">#ff4582ff</color>
+
+
+    <color name="browser_actions_bg_grey">#fff5f5f5</color>
+    <color name="browser_actions_divider_color">#1e000000</color>
+    <color name="browser_actions_text_color">#de000000</color>
+    <color name="browser_actions_title_color">#ff646464</color>
+    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_light">#ffd6d7d7</color>
+    <color name="cardview_dark_background">#ff424242</color>
+
+    <color name="cardview_light_background">#ffffffff</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="colorAccent">#9575CD</color>
+    <color name="colorPrimary">#FF0535</color>
+    <color name="colorPrimaryDark">#FF5030</color>
+    <color name="com_facebook_blue">#ff3b5778</color>
+    <color name="com_facebook_button_background_color">#ff433dae</color>
+    <color name="com_facebook_button_background_color_disabled">#ffbdc3c9</color>
+    <color name="com_facebook_button_background_color_focused">#fffffffe</color>
+    <color name="com_facebook_button_background_color_focused_disabled">#ff82878c</color>
+    <color name="com_facebook_button_background_color_pressed">#ff5f477a</color>
+    <color name="com_facebook_button_background_color_selected">#ff7c5fc8</color>
+    <color name="com_facebook_button_border_color_focused">#ffdedee6</color>
+    <color name="com_facebook_button_login_background_color">#ff4567b5</color>
+    <color name="com_facebook_button_login_silver_background_color">#fff4f6f8</color>
+    <color name="com_facebook_button_login_silver_background_color_pressed">#ffc9eaf0</color>
+    <color name="com_facebook_button_send_background_color">@color/com_facebook_messenger_blue</color>
+    <color name="com_facebook_button_send_background_color_pressed">#ff003fff</color>
+    <color name="com_facebook_device_auth_text">#ff95949d</color>
+    <color name="com_facebook_likeboxcountview_border_color">#ff6c7170</color>
+    <color name="com_facebook_likeboxcountview_text_color">#ff6c7170</color>
+    <color name="com_facebook_likeview_text_color">#ff6c7170</color>
+    <color name="com_facebook_messenger_blue">#ff0382ff</color>
+    <color name="com_smart_login_code">#ff3a6459</color>
+    <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_google_signin_btn_text_dark_disabled">#1f000000</color>
+    <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
+    <color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_google_signin_btn_text_light_default">#90000000</color>
+    <color name="common_google_signin_btn_text_light_disabled">#1f000000</color>
+    <color name="common_google_signin_btn_text_light_focused">#90000000</color>
+    <color name="common_google_signin_btn_text_light_pressed">#de000000</color>
+    <color name="design_bottom_navigation_shadow_color">#14000000</color>
+    <color name="design_default_color_primary">#ff5f31b5</color>
+    <color name="design_default_color_primary_dark">#ff353f5f</color>
+    <color name="design_fab_shadow_end_color">@android:color/transparent</color>
+    <color name="design_fab_shadow_mid_color">#14000000</color>
+    <color name="design_fab_shadow_start_color">#44000000</color>
+    <color name="design_fab_stroke_end_inner_color">#0a000000</color>
+    <color name="design_fab_stroke_end_outer_color">#0f000000</color>
+    <color name="design_fab_stroke_top_inner_color">#1affffff</color>
+    <color name="design_fab_stroke_top_outer_color">#2effffff</color>
+    <color name="design_snackbar_background_color">#ff323232</color>
+    <color name="gray">#ffa9a9a9</color>
+    <color name="mtrl_btn_bg_color_disabled">#1f000000</color>
+    <color name="mtrl_btn_text_color_disabled">#61000000</color>
+    <color name="mtrl_btn_transparent_bg_color">#00ffffff</color>
+    <color name="mtrl_scrim_color">#52000000</color>
+    <color name="mtrl_textinput_default_box_stroke_color">#6b000000</color>
+    <color name="mtrl_textinput_disabled_color">#1f000000</color>
+    <color name="mtrl_textinput_filled_box_default_background_color">#0a000000</color>
+    <color name="mtrl_textinput_hovered_box_stroke_color">#de000000</color>
+    <color name="notification_material_background_media_default_color">#ff424242</color>
+</resources>

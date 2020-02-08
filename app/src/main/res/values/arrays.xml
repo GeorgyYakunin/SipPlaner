@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="fequancyarray">
+        <item>Monthly</item>
+        <item>Quartly</item>
+        <item>Half-Yearly</item>
+        <item>Yearly</item>
+    </array>
+    <array name="tunnerarray">
+        <item>Year</item>
+        <item>Month</item>
+    </array>
+</resources>

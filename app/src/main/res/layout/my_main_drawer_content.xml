@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/wallpaper"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="6dp"
+            android:orientation="vertical"
+            android:padding="6dp">
+
+            <LinearLayout
+                android:id="@+id/banner_container"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:layout_weight="1.8"
+                android:background="@drawable/banner_ad_bkg"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:padding="2dp" />
+
+            <ImageView
+                android:id="@+id/bannerhome"
+                android:layout_width="fill_parent"
+                android:layout_height="205dp"
+                android:background="@drawable/home_banner"
+                android:padding="6dp" />
+
+            <ImageView
+                android:id="@+id/sipCalc"
+                android:layout_width="fill_parent"
+                android:layout_height="82dp"
+                android:padding="6dp"
+                android:src="@drawable/sipcalculator" />
+
+            <ImageView
+                android:id="@+id/sipPlan"
+                android:layout_width="fill_parent"
+                android:layout_height="82dp"
+                android:padding="6dp"
+                android:src="@drawable/sipplanner" />
+
+            <ImageView
+                android:id="@+id/swpCalc"
+                android:layout_width="fill_parent"
+                android:layout_height="82dp"
+                android:padding="6dp"
+                android:src="@drawable/swpcalculator" />
+
+            <ImageView
+                android:id="@+id/stpCalc"
+                android:layout_width="fill_parent"
+                android:layout_height="82dp"
+                android:padding="6dp"
+                android:src="@drawable/stpcalculator" />
+
+            <ImageView
+                android:id="@+id/addPlan"
+                android:layout_width="fill_parent"
+                android:layout_height="82dp"
+                android:padding="6dp"
+                android:src="@drawable/addinvestment" />
+
+            <ImageView
+                android:id="@+id/viewPlan"
+                android:layout_width="fill_parent"
+                android:layout_height="82dp"
+                android:padding="6dp"
+                android:src="@drawable/viewmypalne" />
+
+            <com.facebook.ads.NativeAdLayout
+                android:id="@+id/native_ad_container"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_margin="6dp"
+                android:layout_marginBottom="22dp"
+                android:background="@drawable/native_ad_bkg"
+                android:orientation="vertical"
+                android:padding="6dp"
+                android:visibility="gone" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
